@@ -11,10 +11,10 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Catherine Knox"
+title                    : "Ella Provancher"
 title_separator          : "-"
 subtitle                 : "Engineering Portfolio"
-name                     : &name "Catherine Knox" # &name is a YAML anchor which can be *referenced later
+name                     : &name "Ella Provancher" # &name is a YAML anchor which can be *referenced later
 description              : &description "Engineering Portfolio"
 url                      : https://davidflorianjr.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -98,7 +98,7 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/img/Knox_Catherine.JPG"
-  bio              : "An engineering student with a passion for nuclear technology and aerospace "
+  bio              : "An engineering student with a passion for medical technology "
   location         : "Nashville, TN"
   links:
     - label: "LinkedIn"
